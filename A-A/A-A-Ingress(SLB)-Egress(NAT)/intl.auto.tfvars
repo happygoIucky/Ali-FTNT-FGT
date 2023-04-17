@@ -3,8 +3,8 @@
 instance_ami="m-t4n1pi4bc120x9cepcz4" #7.2.0 BYOL
 region="ap-southeast-1"
 licensetype="byol"
-license1="~/lic/FGVM08TM23001364.lic"
-license2="~/lic/FGVM08TM23001365.lic"
+license1="~/lic/yourlicense.lic"
+license2="~/lic/yourlicense.lic"
 number_web_vm=2
 slb_private_ip="172.16.1.50"
 fgt_internet_max_bandwidth_out=0
